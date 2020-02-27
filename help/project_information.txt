@@ -6,11 +6,11 @@ TO DO
 -
 #################################
 IN PROGRESS
--login [python3, sqlite3, ]
+-
 -
 -
 #################################
 DONE
--
+-login [python3, sqlite3, ]
 -
 -
